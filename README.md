@@ -1,3 +1,5 @@
+Updated 10/02/2023
+
 # Cordova Universal Links Plugin
 This Cordova plugin adds support for opening an application from the browser when user clicks on the link. Better known as:
 - [Universal Links on iOS](https://developer.apple.com/library/ios/documentation/General/Conceptual/AppSearch/UniversalLinks.html)
